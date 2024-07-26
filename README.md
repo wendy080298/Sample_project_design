@@ -1,6 +1,6 @@
-# Sample_project_design
-Project Name: Degenerate Academy
-Brief Description: A redesign of the degenerate academy homepage.
+# Project Name: Degenerate Academy
+
+# Brief Description: A redesign of the degenerate academy homepage.
 
 # Design Philosophy: 
 *Create a visually appealing and intuitive homepage
